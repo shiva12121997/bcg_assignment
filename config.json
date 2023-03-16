@@ -1,0 +1,21 @@
+{   "input" :
+        {
+                "charges":"Data/Charges_use.csv",
+                "damages":"Data/Damages_use.csv",
+                "endorse":"Data/Endorse_use.csv",
+                "primary":"Data/Primary_Person_use.csv",
+                "restrict":"Data/Restrict_use.csv",
+                "units":"Data/Units_use.csv"
+        },
+    "output": 
+        {
+            "out1" : "out1.csv",
+            "out2" : "out2.csv",
+            "out3" : "out3.csv",
+            "out4" : "out4.csv",
+            "out5" : "out5.csv",
+            "out6" : "out6.csv",
+            "out7" : "out7.csv",
+            "out8" : "out8.csv"
+        }
+}
